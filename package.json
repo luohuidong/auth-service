@@ -1,0 +1,5 @@
+{
+  "name": "auth-service-workspace",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
