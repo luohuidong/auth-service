@@ -1,5 +1,8 @@
 {
   "name": "auth-service-workspace",
   "private": true,
-  "workspaces": ["apps/*"]
+  "workspaces": ["apps/*"],
+  "devDependencies": {
+    "@biomejs/biome": "2.5.2"
+  }
 }
